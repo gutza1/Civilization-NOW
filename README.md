@@ -1,38 +1,34 @@
-# Civilization-NOW
--------------------------------------------
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+Civilization NOW
+=====================
+Civilization NOW (CIVNOW) is a Minecraft mod that adds extensive functionality to villager AI and behavior. Mod specific blocks and entites are added to create an interactive economy and civilization. It works in single player, LAN, and SMP.
 
-Note also that the patches are built against "unrenamed" MCP source code (aka
-srgnames) - this means that you will not be able to read them directly against
-normal code.
+##Discussion
+All discussion should remain on the mod's official forum page located on the Minecraft forums.
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2273340-wip-1-7-x-civilization-now-village-culture
 
-Source pack installation information:
+##Contributing
+Contributions are welcome. Simply clone into your workspace, set it up, make your changes, and submit a pull request for review.
 
-Standalone source installation
-==============================
+#License
+CIVNOW utilizes a custom license, summarized below. The license is also available in-full within the repository.
+#####Liability
+We are not liable for any damages caused by this software.
 
-To install this source code for development purposes, extract this zip file.
-It ships with a demonstration mod. Run 'gradlew setupDevWorkspace' to create
-a gradle environment primed with FML. Run 'gradlew eclipse' or 'gradlew idea' to
-create an IDE workspace of your choice.
-Refer to ForgeGradle for more information about the gradle environment
-Note: On macs or linux you run the './gradlew.sh' instead of 'gradlew'
+#####Distribution
+Only distribute CIVNOW by linking to an official download or Curse. Do not create your own mirror links. Do not bypass our adf.ly links. Exemptions apply to modpacks.
 
-Forge source installation
-=========================
-MinecraftForge ships with this code and installs it as part of the forge
-installation process, no further action is required on your part.
+#####Modpacks
+CIVNOW may be placed within a modpack without our consent, provided that the modpack is non-profit and does not generate revenue of any kind, including sales, website advertising, URL shorteners, donations, etc.
 
-For reference this is version @MAJOR@.@MINOR@.@REV@.@BUILD@ of FML
-for Minecraft version @MCVERSION@.
+Absolutely no modifications can be made to CIVNOW when it is placed in a modpack.
 
-LexManos' Install Video
-=======================
-https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
+#####Source Code
+The source code of CIVNOW is made available for educational purposes only. Neither it, its source code, nor its byte code may be modified and recompiled for public use by anyone except us.
 
-For more details update more often refer to the Forge Forums:
-http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+We do accept and encourage private modifications with the intent for said modifications to be added to the official public version.
+
+Authors that submit modified code that is later added into the publically available build release all rights to the code under the terms that they are credited via in-code documentation and any other methods of credit/thanks deemed appropriate by the mod author.
+
+##Credits
+  - reuxertz
+  - WildBamaBoy (license)
