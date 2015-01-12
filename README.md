@@ -1,6 +1,6 @@
 Civilization NOW
 =====================
-Civilization NOW (CIVNOW) is a Minecraft mod that adds extensive functionality to villager AI and behavior. Mod specific blocks and entites are added to create an interactive economy and civilization. It works in single player, LAN, and SMP.
+Civilization NOW (CIVNOW) is a Minecraft mod that adds extensive functionality to villager AI and behavior. Mod specific blocks, items, and structures are added to create an interactive economy and civilization.
 
 ##Discussion
 All discussion should remain on the mod's official forum page located on the Minecraft forums.
