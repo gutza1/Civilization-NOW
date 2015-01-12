@@ -1,0 +1,16 @@
+[
+{
+  "modid": "civmod",
+  "name": "Civilization Mod",
+  "description": "Villager & Civilization AI Expansion",
+  "version": "Alpha 0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["reuxertz"],
+  "credits": "My time",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
